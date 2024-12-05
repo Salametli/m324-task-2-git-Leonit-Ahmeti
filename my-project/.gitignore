@@ -1,0 +1,21 @@
+# Node.js modules
+node_modules/
+
+# Optional npm-debug.log for npm errors
+npm-debug.log*
+
+# Optional logs
+logs
+*.log
+logs/*.log
+
+# dotenv environment files
+.env
+
+# Build output
+dist/
+build/
+
+# Optional system files
+.DS_Store
+Thumbs.db
